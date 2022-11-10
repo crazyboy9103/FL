@@ -1,3 +1,5 @@
+# Env setup
+* ```conda env create -f environment.yaml``` after changing the envs path
 # Rest
 * Server : ```cd rest/FL_Server && python manage.py runserver```
 * Clients : ```cd rest && python run_local.py```
