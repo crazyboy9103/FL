@@ -1,0 +1,28 @@
+2022-11-10 15:24:04;[INFO];max round 5, experiment 1, num samples 100, epochs 10, batch size 8
+2022-11-10 15:24:59;[INFO];client 0 address ('211.193.55.176', 8062) healthy
+2022-11-10 15:24:59;[INFO];client 2 address ('211.193.55.176', 8064) healthy
+2022-11-10 15:24:59;[INFO];client 3 address ('211.193.55.176', 8065) healthy
+2022-11-10 15:24:59;[INFO];client 1 address ('211.193.55.176', 8063) healthy
+2022-11-10 15:24:59;[INFO];client 4 address ('211.193.55.176', 8066) healthy
+2022-11-10 15:24:59;[INFO];Start FedAvg
+2022-11-10 15:24:59;[INFO];Round 1/5
+2022-11-10 15:24:59;[INFO];Started FL task
+2022-11-10 15:28:36;[INFO];client 0 acc 0.3990384638309479
+2022-11-10 15:28:36;[INFO];client 1 acc 0.4108084440231323
+2022-11-10 15:28:36;[INFO];client 2 acc 0.3991999924182892
+2022-11-10 15:28:36;[INFO];client 3 acc 0.41158536076545715
+2022-11-10 15:28:36;[INFO];client 4 acc 0.40880635380744934
+2022-11-10 15:28:36;[INFO];client 0 data dist {0: 10, 1: 10, 2: 10, 3: 10, 4: 10, 5: 10, 6: 10, 7: 10, 8: 10, 9: 10}
+2022-11-10 15:28:36;[INFO];client 1 data dist {0: 10, 1: 10, 2: 10, 3: 10, 4: 10, 5: 10, 6: 10, 7: 10, 8: 10, 9: 10}
+2022-11-10 15:28:36;[INFO];client 2 data dist {0: 10, 1: 10, 2: 10, 3: 10, 4: 10, 5: 10, 6: 10, 7: 10, 8: 10, 9: 10}
+2022-11-10 15:28:36;[INFO];client 3 data dist {0: 10, 1: 10, 2: 10, 3: 10, 4: 10, 5: 10, 6: 10, 7: 10, 8: 10, 9: 10}
+2022-11-10 15:28:36;[INFO];client 4 data dist {0: 10, 1: 10, 2: 10, 3: 10, 4: 10, 5: 10, 6: 10, 7: 10, 8: 10, 9: 10}
+2022-11-10 15:28:36;[INFO];client 2, 100 training data samples
+2022-11-10 15:28:36;[INFO];client 1, 100 training data samples
+2022-11-10 15:28:36;[INFO];client 0, 100 training data samples
+2022-11-10 15:28:36;[INFO];client 4, 100 training data samples
+2022-11-10 15:28:36;[INFO];client 3, 100 training data samples
+2022-11-10 15:28:36;[INFO];Server acc 0.22100000083446503
+2022-11-10 15:28:36;[INFO];Start FedAvg
+2022-11-10 15:28:36;[INFO];Round 2/5
+2022-11-10 15:28:36;[INFO];Started FL task

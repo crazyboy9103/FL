@@ -1,0 +1,6 @@
+2022-11-10 15:58:36;[INFO];Server initialized with 5 clients, experiment 1, max round 5
+2022-11-10 15:58:58;[INFO];Client 2 contains 200 data samples
+2022-11-10 15:58:58;[INFO];Client 4 contains 200 data samples
+2022-11-10 15:58:58;[INFO];Client 0 contains 200 data samples
+2022-11-10 15:58:58;[INFO];Client 3 contains 200 data samples
+2022-11-10 15:58:58;[INFO];Client 1 contains 200 data samples

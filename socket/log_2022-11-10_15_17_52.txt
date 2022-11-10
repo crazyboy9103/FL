@@ -1,0 +1,4 @@
+2022-11-10 15:23:05;[INFO];max round 5, experiment 1, num samples 100, epochs 10, batch size 8
+2022-11-10 15:23:14;[INFO];Start FedAvg
+2022-11-10 15:23:14;[INFO];Round 1/5
+2022-11-10 15:23:14;[INFO];Started FL task
