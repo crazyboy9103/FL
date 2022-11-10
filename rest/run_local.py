@@ -7,7 +7,9 @@ import threading
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
-    parser.add_argument("--ip", default="http://127.0.0.1:8000", type=str)
+    #parser.add_argument("--ip", default="http://127.0.0.1:8000", type=str)
+    parser.add_argument("--ip", default="127.0.0.1", type=str)
+    parser.add_argument("--port", default="20000", type=str)
     parser.add_argument("--client", default=5, type=int)
     parser.add_argument("--exp",  default=1, type=int)
     parser.add_argument("--round", default=5, type=int)
@@ -15,7 +17,7 @@ if __name__ == "__main__":
     parser.add_argument("--delay", default=5, type=int)
     args = parser.parse_args()
 
-    
+    args.ip = f"http://{args.ip}:{args.port}"
     init = requests.get(f"{args.ip}/initialize/{args.client}/{args.exp}/{args.round}")
     print(init)
 
